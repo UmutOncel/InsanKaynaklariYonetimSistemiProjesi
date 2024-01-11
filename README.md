@@ -8,4 +8,4 @@ Projemizde personel, şirket yöneticisi ve admin rolleri bulunmaktadır. Person
 
 Projemizin videosuna ulaşmak için görsele tıklayınız.
 
-[<img src="https://i.hizliresim.com/l1jok7p.jpg" width="50%">]([https://www.youtube.com/watch?v=LVxjl3gIzT4](https://www.linkedin.com/feed/update/urn:li:activity:7132666325067255809/)https://www.linkedin.com/feed/update/urn:li:activity:7132666325067255809/ "İNKASİS")
+[<img src="https://i.hizliresim.com/l1jok7p.jpg" width="50%">](https://www.linkedin.com/feed/update/urn:li:activity:7132666325067255809/)https://www.linkedin.com/feed/update/urn:li:activity:7132666325067255809/ "İNKASİS")
